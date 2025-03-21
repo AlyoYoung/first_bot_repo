@@ -3,4 +3,5 @@ public class Test8 {
     int h;
     int y;
     int idi;
+    int df;
 }
