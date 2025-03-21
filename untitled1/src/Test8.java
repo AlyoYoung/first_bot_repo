@@ -5,4 +5,5 @@ public class Test8 {
     int idi;
     int df;
     int dgh;
+    int kdjfhgfdkxl;
 }
