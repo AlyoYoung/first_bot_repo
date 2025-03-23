@@ -6,4 +6,5 @@ public class Test8 {
     int df;
     int dgh;
     int kdjfhgfdkxl;
+    int BABYSHARK;
 }
