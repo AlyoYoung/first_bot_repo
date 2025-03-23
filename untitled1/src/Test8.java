@@ -8,4 +8,5 @@ public class Test8 {
     int kdjfhgfdkxl;
     int BABYSHARK;
     int ghjk;
+    int hhh;
 }
