@@ -3,4 +3,5 @@ public class DDDD {
     String k;
     int t;
     int yyyyy;
+    int fffffff;
 }
